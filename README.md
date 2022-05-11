@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 <p align="left"> 
-  <a href="https://github.com/yutkat/yutkat/">
+  <a href="https://github.com/TbrtTkyk/TbrtTkyk/">
     <img src="https://komarev.com/ghpvc/?username=TbrtTkyk" alt="TbrtTkyk" />
   </a>
 <!--
   <a href="http://twitter.com/yutkat">
     <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
   </a>-->
-  <a href="https://github.com/yutkat">
-    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+  <a href="https://github.com/TbrtTkyk">
+    <img height="20" src="https://img.shields.io/github/followers/TbrtTkyk?label=follow&logo=github&style=flat" />
   </a>
 <!--
     <a href="https://www.reddit.com/user/yutkat">
